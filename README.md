@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**What was your Nimiq ceremony address?**
+**What was your Nimiq ceremony address (public key)?**
 
 ADD ADDRESS HERE
 
