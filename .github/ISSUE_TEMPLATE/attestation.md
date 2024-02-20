@@ -16,6 +16,7 @@ ADD ADDRESS HERE
 ADD NAME HERE
 
 **Did you attest on other platforms (Twitter/Keybase/etc) (optional)? If so, please add links to the attestations here!**
+<!-- (example https://github.com/celo-org/plumo-ceremony-attestations/issues/1) -->
 
 ADD LINKS HERE
 
