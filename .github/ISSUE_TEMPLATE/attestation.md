@@ -15,6 +15,10 @@ ADD ADDRESS HERE
 
 ADD NAME HERE
 
+**What's your affiliation (optional)?**
+
+ADD AFFILIATION HERE
+
 **Did you attest on other platforms (Twitter/Keybase/etc) (optional)? If so, please add links to the attestations here!**
 <!-- (example https://github.com/celo-org/plumo-ceremony-attestations/issues/1) -->
 
