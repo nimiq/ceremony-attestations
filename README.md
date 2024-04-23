@@ -2,6 +2,8 @@
 
 ## Phase 1
 
+Beacon Hash: Hash of block #840514 of the Bitcoin blockchain
+
 ### Round 1
 
 | # | Public Key | Name | Affiliation | Attestation |
