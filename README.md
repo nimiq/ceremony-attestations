@@ -128,5 +128,17 @@ Beacon Hash: Hash of block #840514 of the Bitcoin blockchain: `00000000000000000
 | 83 | 8031b2ff9894ef36ddf8db360cf59bd27143bb19ca6ab88d668938bbbcd3c96b | @ferritexx |  |
 | 84 | c346ec357464134d0a9de4fd1c9ff8515c4e3690cb8adce50c786886f5710b33 | ahaneku. |  |
 
+### Round 9
+
+| # | Public Key | Name | Attestation |
+|--|--|--|--|
+| 85 | fda69c89efd2b1d37dbc0f84eb0726fbfeb2a890a09822cabb80c463c46093e7 | danimoh |  |
+| 86 | bf9a5528458d2bc594c1fbeee5b3344865c3fdb46e619a5d786f4061e1946590 | Pascal Berrang | [Github](https://github.com/nimiq/ceremony-attestations/issues/78) |
+| 87 | 796efb804e2932d6f66857c84ed8b2d4a3482d3d94032c27034126118b6508b1 | cephas |  |
+| 88 | add0256d9c40fca1c9cac418c2c5b90db0b6c4d1fec8e3b37513a1496cb917ce | @cleanwin99 |  |
+| 89 | 9a2193fee67dc779cbe5d9dcdc0f50362c50e41b8046ebde37247e7c4cbe2033 | @bekind1sst |  |
+| 90 | 3bc869e03d1a0b344a353497de30a4b9b0d3cc2abdf3c5f0ee74478eae0c51e9 | @chelseachioma1 |  |
+| 91 | c5f1180bf45278272255d6c2b954f7029019f1a1fd75b192fb21b57f397f9120 | OhBee64060159 |  |
+| 92 | b4954e3aac2ae9cf98d1e160db0a56d1ab42c8b9baceb29dd9a583119edcb756 | chrito2929 |  |
 
 
