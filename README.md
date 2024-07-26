@@ -143,4 +143,4 @@ Beacon Hash: Hash of block #840514 of the Bitcoin blockchain: `00000000000000000
 
 ## Phase 2
 
-Beacon Hash: Hash of block #853996 of the Bitcoin blockchain
+Beacon Hash: Hash of block #853996 of the Bitcoin blockchain: `00000000000000000000fe18dcae790356e67620807ff31323b44c2fe1058c92`
