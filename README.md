@@ -51,7 +51,7 @@ Beacon Hash: Hash of block #840514 of the Bitcoin blockchain: `00000000000000000
 | # | Public Key | Name | Attestation |
 |--|--|--|--|
 | 28 | 123ad99816c464a6fd9291eb39aec3e063eb37c3a8333ecdf723da3546ff73de | Sören | [X/Twitter](https://twitter.com/the_soerenson/status/1773246927372472580) [Github](https://github.com/nimiq/ceremony-attestations/issues/41) |
-| 29 | edc563fbcd0273f6db07e4a247d3890d1967c830ad987b9e3fb56b7663fc104e | Harley | ! [Github](https://github.com/nimiq/ceremony-attestations/issues/35) |
+| 29 | edc563fbcd0273f6db07e4a247d3890d1967c830ad987b9e3fb56b7663fc104e | Harley | [Github](https://github.com/nimiq/ceremony-attestations/issues/35) |
 | 30 | db1173872c5f41bad6f40d63f6961cf6db5b4cac3a26f5d14c5daecbe50a27af | yasho5313 | [Github](https://github.com/nimiq/ceremony-attestations/issues/37) |
 | 31 | 91728f1bbcb09ec3a022aa9563cc37f90da779a0198988be8b6931b3987c9730 | tina1017_48183 | [Github](https://github.com/nimiq/ceremony-attestations/issues/39) |
 | 32 | 974206693a161be310e684949d8313af2072a8950ff5d60acfdf3f2ef9bf8adc | Lubos293 | [Github](https://github.com/nimiq/ceremony-attestations/issues/40) |
@@ -62,7 +62,7 @@ Beacon Hash: Hash of block #840514 of the Bitcoin blockchain: `00000000000000000
 
 | # | Public Key | Name | Attestation |
 |--|--|--|--|
-| 35 | 4d9f638b695f96590b88400be11a5db33c52dab2db7a34b85e6c50ec7a9fff3b | hauma1302 | no   Yes [Github](https://github.com/nimiq/ceremony-attestations/issues/49) |
+| 35 | 4d9f638b695f96590b88400be11a5db33c52dab2db7a34b85e6c50ec7a9fff3b | hauma1302 | [Github](https://github.com/nimiq/ceremony-attestations/issues/49) |
 | 36 | 5f4f2825822f840bff6f28aa8283340f5bbb5e8bda9dd8a1afba96a2b7145614 | tinkie | [Github](https://github.com/nimiq/ceremony-attestations/issues/57) |
 | 37 | d7d2fcf8fd19456288d087617b1e1cd799dddc2646c4cd83b3cd5dc1d641dc62 | DirtyRusski | [Github](https://github.com/nimiq/ceremony-attestations/issues/44) |
 | 38 | a5799402eeeda3724701e4b8cc475bf56aedd1d2d88891f11228cf9d6f95ed4c | jmib007 | [Github](https://github.com/nimiq/ceremony-attestations/issues/51) |
@@ -146,3 +146,100 @@ Beacon Hash: Hash of block #840514 of the Bitcoin blockchain: `00000000000000000
 ## Phase 2
 
 Beacon Hash: Hash of block #853996 of the Bitcoin blockchain: `00000000000000000000fe18dcae790356e67620807ff31323b44c2fe1058c92`
+
+### Round 1
+
+| # | Public Key | Name | Attestation |
+|--|--|--|--|
+| 1 | 82a04c1b5c4f2626c8f0ac9ec83668791459ac2bfe07dc1caef5009f38b7f867 | Inês Cruz | [Github](https://github.com/nimiq/ceremony-attestations/issues/101) |
+| 2 | 7bcbc2950e39673ade80f3d303ba84445b82f62c7670a36a1544212c76a31ce5 | sisou | [Github](https://github.com/nimiq/ceremony-attestations/issues/100) |
+| 3 | 3013a15d3778afe385d8007be96fcb52c9d7ff3764d18538766b5cfbc4746d38 | Daniel | [Github](https://github.com/nimiq/ceremony-attestations/issues/110) |
+| 4 | 2fa1fc59a15ec5b14c4ab0e2a42c0444724e2acb2e51dc2ba57f4798fdc21fe2 | Discord: bronco__buster Twitter: @bronco_buster GitHub: Bronco-Buster | [Github](https://github.com/nimiq/ceremony-attestations/issues/94) |
+| 5 | c01a388a7d4246761e03928b7a129e7e7d2384d4005b3f51115c87433187375b | Joel | [Github](https://github.com/nimiq/ceremony-attestations/issues/92) |
+| 6 | 48c2df31e95932ab2ae42a8987d1ca2bb623f7acdd27ac2efcab64adf9e2b2f3 | Muhammad Syahrul | [X/Twitter](https://twitter.com/MelvishNiz) [Github](https://github.com/nimiq/ceremony-attestations/issues/88) |
+| 7 | a1a82abb5533ff77e5d0a3e7c14ea9d1042bd28c4d553213f478bed5ad289298 | Renny | [Github](https://github.com/nimiq/ceremony-attestations/issues/122) |
+| 8 | ef816f2221f14d227a767dd5453fff798b467d498d813c2190ea8d65fded8704 | donquixo13 | [Github](https://github.com/nimiq/ceremony-attestations/issues/103) |
+| 9 | 5fbf3f4693ac59b13c8e7cb618ccfd64c96a7799b8e1990f6a5a27a1dd28d54f | mike@wille.io | [Github](https://github.com/nimiq/ceremony-attestations/issues/99) |
+| 10 | 885b6b803f145c055bcc48904b9fbaec82e8da81dbc5cdee3f69680c5e28e2bd | Lubos293 | [Github](https://github.com/nimiq/ceremony-attestations/issues/86) |
+| 11 | dda1fe0e20bcadcd07377e551a281f7cbac4a843dc6b8b7bd02de6297941320e | Bedyk Yaroslav | [Github](https://github.com/nimiq/ceremony-attestations/issues/95) |
+| 12 | fca7d41302436f83a2380ec9c162e610afe510a88aba2f927df449bbebeb8759 | DirtyRusski | [Github](https://github.com/nimiq/ceremony-attestations/issues/109) |
+| 13 | ca17c945e791caeeedfda0e00072f9e29b43a2eb482c29b65bdecbb0cadc6fbc | jack_ryan69 | [Github](https://github.com/nimiq/ceremony-attestations/issues/111) |
+| 14 | 602a603242321f6b21483426b5d5dab8b955a0c304843c209561f56f1d84da3d | Jens Peter Secher | [Github](https://github.com/nimiq/ceremony-attestations/issues/102) |
+| 15 | 5f58cc3c7cbbb2eb614bb67a03dea4b4f61b7515b6a01f70a2340f4c633eb5f0 | LegendaryTunz | [Github](https://github.com/nimiq/ceremony-attestations/issues/87) |
+| 16 | ab4b3bfc898ea9ca5b79675a079bb0a872ead5fc33670e723ff460e3f6b15092 | Alex Batongbakal | [X/Twitter](https://twitter.com/UltiMetaMax/status/1790429003049767002) [hey.xyz](https://hey.xyz/posts/0x01df83-0x04) [warpcast.com](https://warpcast.com/dcodex21/0x5378bbf4) [debank.com](https://debank.com/stream/2118590) [Aspecta.id](https://aspecta.id/u/dCodeX21/posts/38070412475604993) [Github](https://github.com/nimiq/ceremony-attestations/issues/83) |
+| 17 | 706cfcbed9c166a3c7ab36b78538255c039b1f160eb4b81416ce88bdd7c7d6c2 | tmontagnoni | [Github](https://github.com/nimiq/ceremony-attestations/issues/84) |
+| 18 | d5a8e3be5b693dfdcc3e25bea855d5a8262ee0154377e5eec1b10c2cb07e11fc | MBTuta | [Github](https://github.com/nimiq/ceremony-attestations/issues/93) |
+| 19 | c93e001a206febe555a0b27e3b9d7022ebcebe2e8e826feaa5655e74c71559ea | BxL221 github |  |
+| 20 | 9344823d2058e1a36dd63e410bc41baad7c8105111812774022ba26ab736c2df | jake / jake4m / jakegray248 | [X/Twitter](https://x.com/jakegray248/status/1800269768022175756) [Github](https://github.com/nimiq/ceremony-attestations/issues/108) |
+
+### Round 2
+
+| # | Public Key | Name | Attestation |
+|--|--|--|--|
+| 21 | 707e62891dfeb736923ccbd514034f46317f0c80d4495840fbb5d7d085e12678 | mrkara | - [Github](https://github.com/nimiq/ceremony-attestations/issues/126) |
+| 22 | dcbdcbe8cc82493beb215dfc9f32810a061cc7e4393f3fd6155dc074dcec1598 | @Start_lost |  |
+| 23 | f8cb25addb12b743f833be07ff42232583b23e03de5e5291c7db9a02d1a61e59 | Danil |  |
+| 24 | ab6bce4b0cd2c1942074aeecff6077121090984bad36c88ef76b0306e117a4b6 | mariofriz | [Github](https://github.com/nimiq/ceremony-attestations/issues/125) |
+| 25 | e724db0017b3cf0f1188c9cb641aec2d87ae9cea864878368420d01f542be47d | cryptoscar | [Github](https://github.com/nimiq/ceremony-attestations/issues/114) |
+| 26 | 970e77d63ac6c70c8a6b06bb861a6c5813e9f941e68dab1c759ac16fa5a34898 | sonmq | [Github](https://github.com/nimiq/ceremony-attestations/issues/118) |
+| 27 | 53fd87cbc5758dd58ff0c08e5627338204437953d476af8ccc7d4589e0acdb02 | nimiq |  |
+| 28 | 4c556abfe88ac64bdb46eaa40927191b2997bd859102aa5f0ecf832460801e79 | abarasam.bnb | [Github](https://github.com/nimiq/ceremony-attestations/issues/124) |
+| 29 | c39469aa2dee1a6bc9eb1a6871f0a457087cea2f9b1de12c55c2355656d36a7f | Doskey | [Github](https://github.com/nimiq/ceremony-attestations/issues/116) |
+| 30 | f8f74bbd95974de97a3e92c36155e9ee825b02f142286b3e757f232f531f13a8 | @vpn4access | [Github](https://github.com/nimiq/ceremony-attestations/issues/115) |
+| 31 | 1f71a78bd7bf69b555301e21a012f646b5a7301b1e04bc8c91861dcfb8bb8815 | Cryptobae | [Github](https://github.com/nimiq/ceremony-attestations/issues/127) |
+| 32 | 84d1604eded188968ec9c0a740b160e280e479c13c4a1e67c31a23eb9e701e08 | Kingbiggi | [Github](https://github.com/nimiq/ceremony-attestations/issues/128) |
+| 33 | 27fbef8e8b62400dd872740ef0c19db69815447ee653b8a0df9b62633f444abb | mickyblizz | [Github](https://github.com/nimiq/ceremony-attestations/issues/117) |
+| 34 | 905fd7ff4c235c1c0a62359891b80dea3d263ac898238d54436e95a12145b3f2 | Sm7 | None [Github](https://github.com/nimiq/ceremony-attestations/issues/121) |
+| 35 | ec1bdb5e405a0e65c22e10e09195c5122b2e2dd9d52cedf4647562a6e42f0434 | Centene | [Github](https://github.com/nimiq/ceremony-attestations/issues/120) |
+| 36 | eb9f91e3f7a1036d3e2401bc008ec243a94c82f2a1fafc29b400dcd13e6d2a67 | @vklynnn7 |  |
+| 37 | 812719dcf4475423605938d9f291c48d67e3bfdc6c757c6eb99d712e2c0c9fb5 | Sugar | [Github](https://github.com/nimiq/ceremony-attestations/issues/123) |
+| 38 | 761183b1713361ed00716c451bf911b5bcc5ea8ae05bea326e29511a0a92600f | Edur |  |
+| 39 | 9a794981f81c6e270f1b412752fced815c58c5887e3ea8ff8a1a577e76d3a13c | @armjosh04 |  |
+| 40 | 0a6293eef08d509718a6fca62286d5decf2037968d224bc729417b1463066e3d | @Dideoluwa15 |  |
+
+### Round 3
+
+| # | Public Key | Name | Attestation |
+|--|--|--|--|
+| 41 | 9a6e2e99143de931158ba93e01507b9231567aca19c3762b52ee011071e4cbaa | hauma1302 | [Github](https://github.com/nimiq/ceremony-attestations/issues/140) |
+| 42 | 95b01ec612a1e945e89d2c5e60c9d93af1b51def2e2988246b0329571ccf5e2d | @theflowalker | [Github](https://github.com/nimiq/ceremony-attestations/issues/138) |
+| 43 | 3f2b6318edc56f7342c8798199632d1a91f9480c08d292d9737b2bf9305d26df | XtheOne | [Github](https://github.com/nimiq/ceremony-attestations/issues/135) |
+| 44 | 982281513648419f0621663418926b6f5fabe63b976c5fa241755e2f7d275b5f | richy | [Github](https://github.com/nimiq/ceremony-attestations/issues/139) |
+| 45 | b4052e2e5f213e257f80178813a0de6135e36d2a22ea96334e5bcb7cf95e0af5 | @av1co | [Github](https://github.com/nimiq/ceremony-attestations/issues/131) |
+| 46 | 52b4ba16e71a67a81df7756158d877e8e5dd3eb01fd61eb6de6c16000216bdc2 | sukrucildirr | [Github](https://github.com/nimiq/ceremony-attestations/issues/130) |
+| 47 | 5c51a6f593bcfff09266ad0784f6d1162f29ae8fb63f1cc97d8a6446a111c415 | CotzaDev |  |
+| 48 | b4c680d1770a5eae25964806ab758cc5e0620e18f7d388dfecad8ac39bac5df7 | @jsdanielh | [Github](https://github.com/nimiq/ceremony-attestations/issues/141) |
+| 49 | 7d3940a6da860ca1f138cbffc1fa90aeddbb3ba81734aaaf6eb2f1ff4515214d | Claudio | [Github](https://github.com/nimiq/ceremony-attestations/issues/142) |
+| 50 | 350940a6ac9aee9df608f137e6c320be313700d49d569a2906b4a4fd97cf83dd | Stefan | [Github](https://github.com/nimiq/ceremony-attestations/issues/133) |
+| 51 | 6eebb8a9e290e2c43ac9c938dd9a1d87458228e05ba349b48712688b25aa9b7d | paberr |  |
+| 52 | 2cedbe18c92f45ddae8c3863cc451fad15e249ff7bfc5c509418aaff7a195499 | kaichao | [Github](https://github.com/nimiq/ceremony-attestations/issues/134) |
+| 53 | 26036b3f3f76b4c1ac4dbf904baa2fa9d3cbd802f377b67db20c85c3c6b112b5 | avaworld |  |
+| 54 | 2d3d99e76e82ef60bbd6f5d84c0c79819df2beb517e831f3f347c2d404f2a616 | GOJOSAMA | [Github](https://github.com/nimiq/ceremony-attestations/issues/11) |
+| 55 | 6ec191ea2894427874d7c10005652b40de01736315a39bdb0d09c2afe4a2ad3a | connebeest | [Github](https://github.com/nimiq/ceremony-attestations/issues/146) |
+| 56 | eb1675013928202cd88ee91639446dec6cdd93de7ae25361744c869428fd6def | Rocco Stanzione | [Github](https://github.com/nimiq/ceremony-attestations/issues/137) |
+| 57 | 7feff587a77c557a70068d976261b27114aaa6efec46f9abea26ae3512430a61 | maestroi |  |
+| 58 | cc6e94991a317c00a0cf33834015f1d0355c705eaaeee7e62a39d66ae73fc472 | zomchim4 | [Github](https://github.com/nimiq/ceremony-attestations/issues/97) |
+| 59 | 3e6a441ec3cb8d11e856d0944791328d968736dbe639a71f1a808168b5df4270 | rlafranchi | [Github](https://github.com/nimiq/ceremony-attestations/issues/136) |
+| 60 | 506d2127784cd167bf30597a05d3685dc0ee01fac4890ffce29d006c5ffe74b7 | madbum |  |
+
+### Round 4
+
+| # | Public Key | Name | Attestation |
+|--|--|--|--|
+| 61 | 4aa4a7fd8490b0ac796e2f7107d16fa88aedb07f5e0473d9150f12553dd7e7fe | EnnyCares | [X/Twitter](https://x.com/Olatenny1/status/1818629793123836150) [Github](https://github.com/nimiq/ceremony-attestations/issues/148) |
+| 62 | 466b454d187b3c47c8b8222511f2c90e764889e3617f8257d199c31ee83a2d13 | Doxainme | [X/Twitter](https://twitter.com/olatenny/status/1818637850906079376) [Github](https://github.com/nimiq/ceremony-attestations/issues/149) |
+| 63 | 21a9749ba7dc4afd8385197e4da3364428b0e67b584652f634b672fe83fa8d22 | micc9 | [X/Twitter](https://twitter.com/cares4me/status/1818640370256802281) [Github](https://github.com/nimiq/ceremony-attestations/issues/150) |
+| 64 | ffdf2682f7051157354fc1cd5cdd253e9444db74769f9ff65f0e85be234f9dce | Biggie | [X/Twitter](https://x.com/biggie4me/status/1818643816980611104) [Github](https://github.com/nimiq/ceremony-attestations/issues/151) |
+| 65 | 471debfd23fbe16301b709dce23ad381af1b5884785032e1e7260bb74b7e6372 | Femiola | [X/Twitter](https://x.com/F3miola/status/1818644758744428968) [Github](https://github.com/nimiq/ceremony-attestations/issues/152) |
+| 66 | c9e5c1b4b555e6d61b87cc05b5a94bb168b3a253ba0f0539c36e224c1563863f | Ecruise | [X/Twitter](https://x.com/ecruis3/status/1818646326034215257) [Github](https://github.com/nimiq/ceremony-attestations/issues/153) |
+| 67 | 02b043904549b897c6fd7cface804406ddbde6783ac06b854928cb255f6852b5 | Dunni | [Github](https://github.com/nimiq/ceremony-attestations/issues/154) |
+| 68 | ce892a52f22d9325a3f984cfe475accddfe4acd51bd03f5f60a8bdfbe5defee0 | obilekwu | [Github](https://github.com/nimiq/ceremony-attestations/issues/144) |
+| 69 | b8c50821b29becbca35d2a9acbfc7e2b8e7e0870ed7e2a7212c54f7ffccacc91 | kingzeye | [Github](https://github.com/nimiq/ceremony-attestations/issues/145) |
+| 70 | 34d281006cb9a93570dc1325a46659f20123daa5d613746966da5091c0311d6a | Oceebigman |  |
+| 71 | 59654c72a31f21bb3661af112055d81c1f15ca4aaaae645b07fe8f3cee6c1e32 | Otto Mora | [X/Twitter](https://x.com/ottomorac/status/1815557080507428976) [Github](https://github.com/nimiq/ceremony-attestations/issues/143) |
+| 72 | 1f81b8ed11653cf59e3bcb00c724541192416a05cf1342359a842861fc4020df | ohbeeutty |  |
+| 73 | 50051b33d7db69f8968144ce2a5c6f9cc08e44b9aad9e074566a68096216a635 | Nodes Hub | [Keybase](https://keybase.io/nodes_hub) [Github](https://github.com/nimiq/ceremony-attestations/issues/147) |
+| 74 | 491feb9e991cf1222eab5dd7ea911bf36ab0496ce06fecde8ce691f77fcbf155 | @antonlivaja |  |
+| 75 | 95d7a892aede59f9bfaac58e6e1c50f8db4dd03a956a25491057874736a85562 | mgtorelli |  |
+| 76 | 2433704a580bb695fb690a7b9ecc847e188c8d824bfd52daaae8d4155f03ce25 | cephas |  |
+
