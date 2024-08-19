@@ -211,7 +211,7 @@ Beacon Hash: Hash of block #853996 of the Bitcoin blockchain: `00000000000000000
 | 48 | b4c680d1770a5eae25964806ab758cc5e0620e18f7d388dfecad8ac39bac5df7 | @jsdanielh | [Github](https://github.com/nimiq/ceremony-attestations/issues/141) |
 | 49 | 7d3940a6da860ca1f138cbffc1fa90aeddbb3ba81734aaaf6eb2f1ff4515214d | Claudio | [Github](https://github.com/nimiq/ceremony-attestations/issues/142) |
 | 50 | 350940a6ac9aee9df608f137e6c320be313700d49d569a2906b4a4fd97cf83dd | Stefan | [Github](https://github.com/nimiq/ceremony-attestations/issues/133) |
-| 51 | 6eebb8a9e290e2c43ac9c938dd9a1d87458228e05ba349b48712688b25aa9b7d | paberr |  |
+| 51 | 6eebb8a9e290e2c43ac9c938dd9a1d87458228e05ba349b48712688b25aa9b7d | paberr | [Github](https://github.com/nimiq/ceremony-attestations/issues/155) |
 | 52 | 2cedbe18c92f45ddae8c3863cc451fad15e249ff7bfc5c509418aaff7a195499 | kaichao | [Github](https://github.com/nimiq/ceremony-attestations/issues/134) |
 | 53 | 26036b3f3f76b4c1ac4dbf904baa2fa9d3cbd802f377b67db20c85c3c6b112b5 | avaworld |  |
 | 54 | 2d3d99e76e82ef60bbd6f5d84c0c79819df2beb517e831f3f347c2d404f2a616 | GOJOSAMA | [Github](https://github.com/nimiq/ceremony-attestations/issues/11) |
